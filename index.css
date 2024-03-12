@@ -1,0 +1,25 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+#options button {
+    margin: 10px;
+}
+
+#options button.correct {
+    background-color: green;
+}
+
+#options button.wrong {
+    background-color: red;
+}
+body{
+    background-image: -o-linear-gradient(red,green);
+    background-color: aquamarine;
+}
